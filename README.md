@@ -1,3 +1,3 @@
 # hello
-my naam is 
+my name is 
 vikas kumar
